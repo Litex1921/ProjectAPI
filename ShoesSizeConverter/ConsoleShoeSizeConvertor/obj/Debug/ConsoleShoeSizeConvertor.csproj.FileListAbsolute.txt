@@ -1,0 +1,10 @@
+c:\users\daniel dimitrov\source\repos\ShoesSizeConverter\ConsoleShoeSizeConvertor\bin\Debug\ConsoleShoeSizeConvertor.exe.config
+c:\users\daniel dimitrov\source\repos\ShoesSizeConverter\ConsoleShoeSizeConvertor\bin\Debug\ConsoleShoeSizeConvertor.exe
+c:\users\daniel dimitrov\source\repos\ShoesSizeConverter\ConsoleShoeSizeConvertor\bin\Debug\ConsoleShoeSizeConvertor.pdb
+c:\users\daniel dimitrov\source\repos\ShoesSizeConverter\ConsoleShoeSizeConvertor\bin\Debug\ShoesSizeConverter.dll
+c:\users\daniel dimitrov\source\repos\ShoesSizeConverter\ConsoleShoeSizeConvertor\bin\Debug\ShoesSizeConverter.pdb
+c:\users\daniel dimitrov\source\repos\ShoesSizeConverter\ConsoleShoeSizeConvertor\obj\Debug\ConsoleShoeSizeConvertor.csprojResolveAssemblyReference.cache
+c:\users\daniel dimitrov\source\repos\ShoesSizeConverter\ConsoleShoeSizeConvertor\obj\Debug\ConsoleShoeSizeConvertor.csproj.CoreCompileInputs.cache
+c:\users\daniel dimitrov\source\repos\ShoesSizeConverter\ConsoleShoeSizeConvertor\obj\Debug\ConsoleShoeSizeConvertor.csproj.CopyComplete
+c:\users\daniel dimitrov\source\repos\ShoesSizeConverter\ConsoleShoeSizeConvertor\obj\Debug\ConsoleShoeSizeConvertor.exe
+c:\users\daniel dimitrov\source\repos\ShoesSizeConverter\ConsoleShoeSizeConvertor\obj\Debug\ConsoleShoeSizeConvertor.pdb

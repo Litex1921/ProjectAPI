@@ -1,0 +1,6 @@
+c:\users\daniel dimitrov\source\repos\ShoesSizeConverter\ShoesSizeConverter\bin\Debug\ShoesSizeConverter.dll
+c:\users\daniel dimitrov\source\repos\ShoesSizeConverter\ShoesSizeConverter\bin\Debug\ShoesSizeConverter.pdb
+c:\users\daniel dimitrov\source\repos\ShoesSizeConverter\ShoesSizeConverter\obj\Debug\ShoesSizeConverter.csprojResolveAssemblyReference.cache
+c:\users\daniel dimitrov\source\repos\ShoesSizeConverter\ShoesSizeConverter\obj\Debug\ShoesSizeConverter.csproj.CoreCompileInputs.cache
+c:\users\daniel dimitrov\source\repos\ShoesSizeConverter\ShoesSizeConverter\obj\Debug\ShoesSizeConverter.dll
+c:\users\daniel dimitrov\source\repos\ShoesSizeConverter\ShoesSizeConverter\obj\Debug\ShoesSizeConverter.pdb

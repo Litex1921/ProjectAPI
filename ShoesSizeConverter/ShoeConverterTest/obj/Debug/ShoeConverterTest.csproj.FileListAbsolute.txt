@@ -1,0 +1,16 @@
+c:\users\daniel dimitrov\source\repos\ShoesSizeConverter\ShoeConverterTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\daniel dimitrov\source\repos\ShoesSizeConverter\ShoeConverterTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\daniel dimitrov\source\repos\ShoesSizeConverter\ShoeConverterTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\daniel dimitrov\source\repos\ShoesSizeConverter\ShoeConverterTest\bin\Debug\ShoeConverterTest.dll
+c:\users\daniel dimitrov\source\repos\ShoesSizeConverter\ShoeConverterTest\bin\Debug\ShoeConverterTest.pdb
+c:\users\daniel dimitrov\source\repos\ShoesSizeConverter\ShoeConverterTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\daniel dimitrov\source\repos\ShoesSizeConverter\ShoeConverterTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\daniel dimitrov\source\repos\ShoesSizeConverter\ShoeConverterTest\bin\Debug\ShoesSizeConverter.dll
+c:\users\daniel dimitrov\source\repos\ShoesSizeConverter\ShoeConverterTest\bin\Debug\ShoesSizeConverter.pdb
+c:\users\daniel dimitrov\source\repos\ShoesSizeConverter\ShoeConverterTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\daniel dimitrov\source\repos\ShoesSizeConverter\ShoeConverterTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\daniel dimitrov\source\repos\ShoesSizeConverter\ShoeConverterTest\obj\Debug\ShoeConverterTest.csprojResolveAssemblyReference.cache
+c:\users\daniel dimitrov\source\repos\ShoesSizeConverter\ShoeConverterTest\obj\Debug\ShoeConverterTest.csproj.CoreCompileInputs.cache
+c:\users\daniel dimitrov\source\repos\ShoesSizeConverter\ShoeConverterTest\obj\Debug\ShoeConverterTest.csproj.CopyComplete
+c:\users\daniel dimitrov\source\repos\ShoesSizeConverter\ShoeConverterTest\obj\Debug\ShoeConverterTest.dll
+c:\users\daniel dimitrov\source\repos\ShoesSizeConverter\ShoeConverterTest\obj\Debug\ShoeConverterTest.pdb
